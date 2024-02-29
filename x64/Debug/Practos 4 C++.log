@@ -1,0 +1,5 @@
+﻿  Practos 4 C++.cpp
+D:\Проекты\Practos 4 C++\Practos 4 C++.cpp(36,5): error C2361: пропуск инициализации "g" из-за метки "default"
+  D:\Проекты\Practos 4 C++\Practos 4 C++.cpp(33,17):
+   см. объявление "g"
+  
